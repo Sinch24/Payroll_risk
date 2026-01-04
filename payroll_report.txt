@@ -1,0 +1,22 @@
+Title: Payroll Risk Scoring System
+
+Objective:
+To identify high risk payroll records using employee data.
+
+Dataset:
+Synthetic dataset containing attendance, leave behavior, and salary changes.
+
+Methodology:
+Exploratory data analysis was done using simple matplotlib plots.
+Three machine learning models were trained and evaluated.
+
+Models:
+Logistic Regression
+Decision Tree
+Random Forest
+
+Result:
+Random Forest performed best based on F1 score.
+
+Conclusion:
+The model can help organizations identify payroll risk patterns early.
